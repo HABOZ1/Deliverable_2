@@ -220,3 +220,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 generate_data_for_d2.py
+cleaned_transactions.csv
+hourly_revenue.json
+status_pivot_table.csv
+item_refund_ratios.csv
